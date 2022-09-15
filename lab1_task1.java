@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * task1
  */
-public class task1 {
+public class lab1_task1 {
 
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);

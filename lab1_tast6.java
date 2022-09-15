@@ -1,4 +1,4 @@
-public class tast6 {
+public class lab1_tast6 {
   public static void main(String[] args) {
     String row1 = "Year is 2009";
     String row2 = "YNot2Bad";

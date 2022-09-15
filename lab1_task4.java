@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class task4 {
+public class lab1_task4 {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
     System.out.print("Input n: ");

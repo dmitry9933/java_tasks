@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class task2 {
+public class lab1_task2 {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
     System.out.print("Input n: ");
